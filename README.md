@@ -27,7 +27,7 @@
 `less NGG_sgRNA.bed | wc -l`
 
 
-### Obtain whole genome  gRNAs number
+### Obtain non-coding region gRNAs number
 `non-coding region gRNA number = whole genome gRNAs number - CDS region gRNAs number`
 
 
