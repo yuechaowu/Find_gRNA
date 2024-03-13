@@ -3,6 +3,8 @@
 ### requirments
 - crisprposfinder.py
 - bedtools
+- genome fasta file
+- genome annotation gff3(gff) file
   
 
 ### find whole genome gRNA (Take NGG, for example)
